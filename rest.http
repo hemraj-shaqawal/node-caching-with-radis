@@ -1,0 +1,8 @@
+
+# Get All Roket
+
+#GET http://localhost:3000/roket
+
+# get data base on roket name
+
+GET http://localhost:3000/roket/falcon1
